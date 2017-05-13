@@ -158,5 +158,3 @@ LRESULT CMyHookDlg::OnHookKey(WPARAM wParam, LPARAM lParam)
 	return 0;
 }
 ```
-## 0x03 下载源码及程序
-[下载连接](https://github.com/h0rs3fa11/HOOK-.git)
